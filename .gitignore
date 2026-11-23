@@ -1,0 +1,27 @@
+# Gradle / Android
+.gradle/
+build/
+app/build/
+app/.cxx/
+.local.properties
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Downloaded dependencies and caches
+.deps-cache/
+app/OpenCV/
+app/PaddleLite/
+
+# OS
+.DS_Store
+
+# Test output
+app/build/reports/
+app/build/outputs/
+
+# Kotlin
+.kotlin/
